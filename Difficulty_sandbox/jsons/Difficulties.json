@@ -5,7 +5,7 @@
    extraHappinessPerLuxury: 100,
    researchCostModifier: 0.9,
    unitCostModifier: 0.01,
-   buildingCostModifier: 0.01,
+   buildingCostModifier: 0.000001,
    unhappinessModifier: 0.01,
    barbarianBonus: 0.33,
    aiCityGrowthModifier: 1,		

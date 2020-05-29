@@ -1,7 +1,9 @@
 [
- {
-   "name": "Infinite money"
-   "gold": 999999999,
-   "hurryCostModifier": 9999999999999,
- }
+	{
+		"name": "Infinite gold",
+		"gold": 99999,
+		"cost": 99999,
+		"hurryCostModifier": 99999,
+		"maintenance": 999
+	}
 ]
