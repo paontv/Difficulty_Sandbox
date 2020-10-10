@@ -1,4 +1,4 @@
-This mod is a pseudo add of sandbox mode.
+This mod adds "sandbox" to the difficulty.
 
 ———————————
 credit
