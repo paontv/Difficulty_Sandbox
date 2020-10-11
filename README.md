@@ -1,4 +1,4 @@
-This mod adds "sandbox" to the difficulty.
+This mod adds "Sandbox" to the difficulty.
 
 ———————————
 credit
