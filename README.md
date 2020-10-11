@@ -1,6 +1,6 @@
 This mod adds "Sandbox" to the difficulty.
 
-———————————
+————————
 credit
 
 
