@@ -33,7 +33,7 @@
 	{
 		"name": "New unit XP increase",
 		"gold": 999,
-		"xpForNewUnits": 9999,
+		"uniques": ["New [Military] units start with [9999] Experience [in this city]"],
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999
