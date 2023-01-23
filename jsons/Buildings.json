@@ -63,6 +63,38 @@
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999
+	},
+	{
+		"name": "Scientist point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Scientist": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	},
+	{
+		"name": "Engineer point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Engineer": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	},
+	{
+		"name": "Artist point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Artist": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	},
+	{
+		"name": "Merchant point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Merchant": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
 	}
 ]
 
